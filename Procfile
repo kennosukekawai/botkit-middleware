@@ -1,1 +1,1 @@
-worker: node simple-bot-slack.js
+worker: node examples/simple-bot/simple-bot-slack.js
